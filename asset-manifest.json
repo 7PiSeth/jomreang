@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.js": "/jomreang/static/js/main.31d6cfe0.js",
-    "index.html": "/jomreang/index.html"
+    "main.css": "/jomreang/static/css/main.c06bec60.css",
+    "main.js": "/jomreang/static/js/main.a32e5fcd.js",
+    "static/media/music_profile.png": "/jomreang/static/media/music_profile.116ad8b67ff3316e8a28.png",
+    "static/media/cp.jpg": "/jomreang/static/media/cp.485b8187f5eda500a9d4.jpg",
+    "index.html": "/jomreang/index.html",
+    "main.c06bec60.css.map": "/jomreang/static/css/main.c06bec60.css.map",
+    "main.a32e5fcd.js.map": "/jomreang/static/js/main.a32e5fcd.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/css/main.c06bec60.css",
+    "static/js/main.a32e5fcd.js"
   ]
 }
