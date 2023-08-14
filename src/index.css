@@ -48,4 +48,10 @@
     @apply text-xl font-medium sm:mx-5 text-center mx-1
     dark:bg-[#1E2329] bg-[#F4F6F8];
   }
+  .elise-light {
+    @apply shadow-[-6px_-6px_6px_0_rgba(255,255,255,0.50),6px_6px_10px_0_rgba(109,129,161,0.25)];
+  }
+  .elise-night {
+    @apply shadow-[-1px_-1px_100px_1px_rgba(14,16,19,1),1px_1px_100px_1px_rgba(65,70,75,1)];
+  }
 }
